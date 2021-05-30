@@ -1,5 +1,4 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# PYTHON 관련 파일 업로드
 
-This repository is built step by step in the tutorial.
+* Problem -> 내가 만든 문제
+* Problem_Answer -> 내가 만든 문제 답 
